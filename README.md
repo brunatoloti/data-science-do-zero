@@ -7,7 +7,6 @@ Repositório com os exercícios, scripts, as notas de aula e os materiais de apo
  - <b>Módulo 2</b> - Ferramentas Essenciais
  - <b>Módulo 3</b> - Dominando o Python
  - <b>Módulo 4</b> - Python para Análise de Dados
-  - oi
  - <b>Módulo 5</b> - Visualização de Dados
  - <b>Módulo 6</b> - Estatística Aplicada e Pré-processamento de Dados
  - <b>Módulo 7</b> - Machine Learning
