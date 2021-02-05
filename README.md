@@ -1,6 +1,6 @@
 # Data Science do Zero
 
-Repositório com os exercícios, scripts, as notas de aula e os materiais de apoio do curso Data Science do Zero oferecido pelo <a href="https://minerandodados.com.br/" title=Minerando Dados>.
+Repositório com os exercícios, scripts, as notas de aula e os materiais de apoio do curso Data Science do Zero oferecido pelo <a href="https://minerandodados.com.br/">Minerando Dados</a>.
 
 **Tópicos do Curso**
  - Módulo 1 - Conceitos e Aplicações
