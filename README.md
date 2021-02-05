@@ -7,13 +7,9 @@ Repositório com os exercícios, scripts, as notas de aula e os materiais de apo
  - <b>Módulo 2</b> - Ferramentas Essenciais
  - <b>Módulo 3</b> - Dominando o Python
  - <b>Módulo 4</b> - Python para Análise de Dados
- <br></br>
- Arquivos aqui: <a href="https://github.com/brunatoloti/data-science-do-zero/tree/main/Python%20para%20An%C3%A1lise%20de%20Dados">Python para Análise de Dados</a>
- <br></br>
+ (Arquivos aqui: <a href="https://github.com/brunatoloti/data-science-do-zero/tree/main/Python%20para%20An%C3%A1lise%20de%20Dados">Python para Análise de Dados</a>)
  - <b>Módulo 5</b> - Visualização de Dados
- <br></br>
- Arquivos aqui: <a href="https://github.com/brunatoloti/data-science-do-zero/tree/main/Visualiza%C3%A7%C3%A3o%20de%20Dados">Visualização de Dados</a>
- <br></br>
+ (Arquivos aqui: <a href="https://github.com/brunatoloti/data-science-do-zero/tree/main/Visualiza%C3%A7%C3%A3o%20de%20Dados">Visualização de Dados</a>)
  - <b>Módulo 6</b> - Estatística Aplicada e Pré-processamento de Dados
  - <b>Módulo 7</b> - Machine Learning
  - <b>Módulo 8</b> - Machine Learning em Produção
@@ -23,5 +19,4 @@ Repositório com os exercícios, scripts, as notas de aula e os materiais de apo
  - <b>Módulo 12</b> - Azure Machine Learning na Prática
  - <b>Módulo 13</b> - Séries Temporais com Python
  - <b>Módulo Extra</b> - Web Scraping com Python
- <br></br>
- Arquivos aqui: <a href="https://github.com/brunatoloti/web-scraping-tripadvisor">Web Scraping com Python</a>
+ (Arquivos aqui: <a href="https://github.com/brunatoloti/web-scraping-tripadvisor">Web Scraping com Python</a>)
