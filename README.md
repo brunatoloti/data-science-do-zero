@@ -11,6 +11,7 @@ Repositório com os exercícios, scripts, as notas de aula e os materiais de apo
  - <b>Módulo 5</b> - Visualização de Dados
  (Arquivos aqui: <a href="https://github.com/brunatoloti/data-science-do-zero/tree/main/Visualiza%C3%A7%C3%A3o%20de%20Dados">Visualização de Dados</a>)
  - <b>Módulo 6</b> - Estatística Aplicada e Pré-processamento de Dados
+ (Arquivos aqui: <a href="https://github.com/brunatoloti/data-science-do-zero/tree/main/Estat%C3%ADstica%20Aplicada%20e%20Pr%C3%A9-processamento%20de%20Dados">Estatística Aplicada e Pré-processamento de Dados</a>)
  - <b>Módulo 7</b> - Machine Learning
  - <b>Módulo 8</b> - Machine Learning em Produção
  - <b>Módulo 9</b> - Mineração de Textos e Natural Language Processing
