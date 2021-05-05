@@ -16,6 +16,7 @@ Repositório com os exercícios, scripts, as notas de aula e os materiais de apo
  (Arquivos aqui: <a href="https://github.com/brunatoloti/data-science-do-zero/tree/main/Machine%20Learning">Machine Learning</a>)
  - <b>Módulo 8</b> - Machine Learning em Produção
  - <b>Módulo 9</b> - Mineração de Textos e Natural Language Processing
+ (Arquivos aqui: <a href="https://github.com/brunatoloti/data-science-do-zero/tree/main/Minera%C3%A7%C3%A3o%20de%20Textos%20e%20NLP">Mineração de Textos e NLP</a>)
  - <b>Módulo 10</b> - Ferramentas Gráficas para Data Science
  - <b>Módulo 11</b> - Visão Computacional e Deep Learning
  - <b>Módulo 12</b> - Azure Machine Learning na Prática
